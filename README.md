@@ -1,4 +1,4 @@
-English Version | [中文版](https://github.com/ph-design/PH60/blob/Rev.2/README.md)
+English Version | [中文版](https://github.com/ph-design/PH60/blob/Rev.2/README-zh_CN.md)
 
 ---
 
