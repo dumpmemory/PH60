@@ -82,8 +82,9 @@ PH60 Rev.2
 
 1. 3D printed case, suitable for any 3D printer with a print size over 250mm x 250mm.
 2. Gasket structure for a softer and more flexible typing experience.
-3. Equipped with [Raspberry Pi RP2040](https://www.raspberrypi.com/products/rp2040/) microcontroller.
-4. Supports open-source [QMK firmware](https://qmk.fm/) and [VIA configuration](https://www.caniusevia.com/) (configured via JSON file).
+3. Designed for plate-mount stabilizers for better typing experience.
+4. Equipped with [Raspberry Pi RP2040](https://www.raspberrypi.com/products/rp2040/) microcontroller.
+5. Supports open-source [QMK firmware](https://qmk.fm/) and [VIA configuration](https://www.caniusevia.com/) (configured via JSON file).
 
 
 ## Assembly Steps
